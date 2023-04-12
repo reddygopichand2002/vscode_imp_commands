@@ -6,3 +6,4 @@ Ctrl + Z: Undo the last action
 Ctrl + A: Select all text in the current file
 Ctrl + F: Find text in the current file
 Ctrl + G: Go to a specific line in the current file
+Ctrl + Shift + I auto-indent your code to make it more readable and consistent
